@@ -1,6 +1,6 @@
 Hi, welcome to my profile!
 
-I'm a norwegian student doing a bachelor's degree on AI, but I'm also interested in a lot of other subjects and programming in general.
+I'm a norwegian student doing a bachelor's degree on AI at UiB, but I'm also interested in a lot of other subjects and programming in general.
 Currently learning the ropes with Python, and hope to be making some of my own projects soon!
 
 <!---
