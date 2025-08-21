@@ -1,6 +1,6 @@
 Hi, welcome to my profile!
 
-I'm a Norwegian student doing a bachelor's degree on AI at UiB.
+I'm a Norwegian student doing a master's degree in informatics with a specialization in machine learning.
 
 https://maxitaxien.github.io/portfolioWebsite/index.html
 
